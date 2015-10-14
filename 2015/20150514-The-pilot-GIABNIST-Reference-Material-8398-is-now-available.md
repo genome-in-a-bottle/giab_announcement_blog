@@ -1,16 +1,9 @@
-<sub>
-<b>Preprint describing GIAB PGP data now on biorxiv</b></sub><br />
-<sub>Post date: Wednesday, September 16, 2015 - 06:37</sub>
 
-<sub>Our manuscript describing GIAB data from the GIAB PGP trios and NA12878 is now available as a preprint at http://biorxiv.org/content/early/2015/09/15/026468.  Thank you to all of you who contributed to these data!  The manuscript is submitted to Nature Scientific Data as well.  Note that this is a "Data Descriptor" that describes the data and QC analyses, but not the downstream analyses we are currently doing to generate candidate variant calls and form high-confidence calls. We welcome any suggestions for the manuscript while it is in the review process. If you submit any publications using these GIAB data, we ask that you cite the preprint until the manuscript is published.</sub>
+The pilot GIAB/NIST Reference Material 8398 is now available!
 
-************************************************************************************************
+Post date: Thursday, May 14, 2015 - 13:41
 
-<sub>
-<b>The pilot GIAB/NIST Reference Material 8398 is now available!</b></sub><br />
-<sub>Post date: Thursday, May 14, 2015 - 13:41</sub>
-
-<sub>We are thrilled to announce that the pilot GIAB/NIST Reference Material 8398, Human DNA for Whole-Genome Variant Assessment (Daughter of Utah/European Ancestry) is released! This is genomic DNA from a large batch of the same cell line as NA12878.  It is available for sale from the NIST Standard Reference Material website at http://tinyurl.com/giabpilot.  Thank you to all of you who have helped with sequencing the genome, analyzing the genome, and giving feedback on our high-confidence calls and regions.  
+We are thrilled to announce that the pilot GIAB/NIST Reference Material 8398, Human DNA for Whole-Genome Variant Assessment (Daughter of Utah/European Ancestry) is released! This is genomic DNA from a large batch of the same cell line as NA12878.  It is available for sale from the NIST Standard Reference Material website at http://tinyurl.com/giabpilot.  Thank you to all of you who have helped with sequencing the genome, analyzing the genome, and giving feedback on our high-confidence calls and regions.  
 
 This is the first ever Reference Material of its kind, with orders of magnitude more characterized properties (all those variants and reference calls!) than any before it.
 
@@ -28,6 +21,6 @@ ftp://ftp-trace.ncbi.nih.gov/giab/ftp/release/NA12878_HG001/NISTv2.18
 
 As sequencing technologies and analysis methods improve, these high-confidence calls and regions will updated with refined versions of the files in a different directory at the Genome in a Bottle ftp site:
 
- ftp://ftp-trace.ncbi.nih.gov/giab/ftp/release/NA12878_HG001/latest
+ftp://ftp-trace.ncbi.nih.gov/giab/ftp/release/NA12878_HG001/latest
 
-It is important to recognize that there is currently no standardization of definitions for true positive, false positive, true negative, and false negative. For example, genotyping errors can be counted as true positives, false positives, or false negatives, and no-calls can be treated as uncertain or homozygous reference regions (see "Instructions for Storage and Use").</sub>
+It is important to recognize that there is currently no standardization of definitions for true positive, false positive, true negative, and false negative. For example, genotyping errors can be counted as true positives, false positives, or false negatives, and no-calls can be treated as uncertain or homozygous reference regions (see "Instructions for Storage and Use").
