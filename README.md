@@ -17,7 +17,6 @@ This repository contains recent announcement or blog post from the Genome in a B
 <sub>Post date: Thursday, May 14, 2015 - 13:41</sub>
 
 <sub>We are thrilled to announce that the pilot GIAB/NIST Reference Material 8398, Human DNA for Whole-Genome Variant Assessment (Daughter of Utah/European Ancestry) is released! This is genomic DNA from a large batch of the same cell line as NA12878.  It is available for sale from the NIST Standard Reference Material website at http://tinyurl.com/giabpilot.</sub>
-
 <br />
 ************************************************************************************************
 
