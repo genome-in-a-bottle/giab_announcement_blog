@@ -13,6 +13,6 @@ This repository contains recent announcement or blog post from the Genome in a B
 
 ************************************************************************************************
 
-<sub><b>[All current and past announcements/blogs]()</b></sub>
+<sub><b>[All current and past announcements/blogs](https://github.com/genome-in-a-bottle/giab_announcement_blog/blob/master/all)</b></sub>
 
 
