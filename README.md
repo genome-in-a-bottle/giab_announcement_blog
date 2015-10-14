@@ -20,6 +20,6 @@ This repository contains recent announcement or blog post from the Genome in a B
 <br /><br />
 ************************************************************************************************
 
-<sub><b>[Past announcements/blogs]()</b></sub>
+<sub><b>[All current and past announcements/blogs]()</b></sub>
 
 
