@@ -11,6 +11,7 @@ This repository contains recent announcement or blog post from the Genome in a B
 
 <sub>Our manuscript describing GIAB data from the GIAB PGP trios and NA12878 is now available as a preprint at http://biorxiv.org/content/early/2015/09/15/026468.  Thank you to all of you who contributed to these data!  The manuscript is submitted to Nature Scientific Data as well.  Note that this is a "Data Descriptor" that describes the data and QC analyses, but not the downstream analyses we are currently doing to generate candidate variant calls and form high-confidence calls.</sub>
 
+************************************************************************************************
 
 <sub>
 <b>The pilot GIAB/NIST Reference Material 8398 is now available!</b></sub><br />
