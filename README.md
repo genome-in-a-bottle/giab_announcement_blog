@@ -3,7 +3,7 @@ This repository contains recent announcement or blog post from the Genome in a B
 ************************************************************************************************
 
 **Latest Announcements**
-
+************************************************************************************************
 
 <sub>
 <b>Preprint describing GIAB PGP data now on biorxiv</b></sub><br />
