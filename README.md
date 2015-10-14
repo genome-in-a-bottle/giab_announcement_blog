@@ -16,7 +16,9 @@ This repository contains recent announcement or blog post from the Genome in a B
 <sub><b>All current and past announcements/blogs</b></sub>
 
 <sub>[2015](https://github.com/genome-in-a-bottle/giab_announcement_blog/blob/master/2015/)</sub>
+
 <sub>[2014](https://github.com/genome-in-a-bottle/giab_announcement_blog/blob/master/2014/)</sub>
+
 <sub>[2013](https://github.com/genome-in-a-bottle/giab_announcement_blog/blob/master/2013/)</sub><br />
 
 
