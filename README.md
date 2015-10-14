@@ -1,7 +1,6 @@
 # giab_announcement_blog
 This repository contains recent announcement or blog post from the Genome in a Bottle Consortium
-
-<br /><br />
+<br />
 **Latest Announcements**
 ************************************************************************************************
 
