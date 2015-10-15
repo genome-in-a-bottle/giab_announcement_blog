@@ -1,3 +1,8 @@
+
+GIAB Use Case: Variant Callers Matter
+
+Post date: Tuesday, November 18, 2014 - 06:50 
+
 With sequencing technologies and bioinformatics rapidly evolving, want to highlight some interesting use cases for our high-confidence calls for the pilot NIST Genome in a Bottle (GIAB) Reference Material, based on NA12878 (see ftp://ftp-trace.ncbi.nih.gov/giab/ftp/data/NA12878/variant_calls/NIST).  Our recent Nature Biotechnology paper (http://www.nature.com/nbt/journal/v32/n3/full/nbt.2835.html) provided some examples of performance metrics for a few different exome and genome sequencing variant callsets.  We used the GCAT website (www.bioplanet.com/gcat), a platform for interactively calculating performance metrics.  The example comparisons shown in the paper were intended to demonstrate how our high-confidence calls can be used rather than as a platform comparison.  Since the publication process is slow and the state-of-the-art evolves rapidly, the high-confidence benchmark variant calls described in the paper are primarily intended to provide a resource for anyone to measure the performance of any sequencing and bioinformatics pipeline.  We would like to continue to collect examples of groups comparing new variant call sets to our high-confidence calls, and we welcome others to submit ideas for posts related to how they have used our Reference Materials.
 
  
