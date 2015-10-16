@@ -3,7 +3,7 @@ The pilot GIAB/NIST Reference Material 8398 is now available!
 
 Post date: Thursday, May 14, 2015 - 13:41
 
-<p><sub>
+
 We are thrilled to announce that the pilot GIAB/NIST Reference Material 8398, Human DNA for Whole-Genome Variant Assessment (Daughter of Utah/European Ancestry) is released! This is genomic DNA from a large batch of the same cell line as NA12878.  It is available for sale from the NIST Standard Reference Material website at http://tinyurl.com/giabpilot.  Thank you to all of you who have helped with sequencing the genome, analyzing the genome, and giving feedback on our high-confidence calls and regions.  
 
 This is the first ever Reference Material of its kind, with orders of magnitude more characterized properties (all those variants and reference calls!) than any before it.
@@ -25,4 +25,4 @@ As sequencing technologies and analysis methods improve, these high-confidence c
 ftp://ftp-trace.ncbi.nih.gov/giab/ftp/release/NA12878_HG001/latest
 
 It is important to recognize that there is currently no standardization of definitions for true positive, false positive, true negative, and false negative. For example, genotyping errors can be counted as true positives, false positives, or false negatives, and no-calls can be treated as uncertain or homozygous reference regions (see "Instructions for Storage and Use").
-</sub></p>
+

@@ -2,7 +2,7 @@ GIAB PGP Trio data on FTP site
 
 Post date: Monday, February 2, 2015 - 09:36 
 
-<sub>Hi all,
+Hi all,
 
 Thank you for the great workshop last week.  As we discussed at the workshop, several datasets for the GIAB PGP Trios are now on the FTP site:
 
@@ -23,4 +23,3 @@ In the coming weeks, additional datasets are likely to be added, including addit
 Cheers,
 
 Justin
-</sub>

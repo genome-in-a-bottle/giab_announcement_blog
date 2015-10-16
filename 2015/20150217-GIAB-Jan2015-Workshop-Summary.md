@@ -3,7 +3,7 @@ GIAB Jan2015 Workshop Summary
 
 Post date: Tuesday, February 17, 2015 - 15:26 
 
-<sub>Thank you to all of you who helped make our January 2015 workshop a success.  A summary of this workshop and steering committee meeting is now available at: https://docs.google.com/document/d/19J6YDg1MH1iD-8Q8mmV9L7wHOfuyUC3aogctZ2Nh87U/edit?usp=sharing as well as below:
+Thank you to all of you who helped make our January 2015 workshop a success.  A summary of this workshop and steering committee meeting is now available at: https://docs.google.com/document/d/19J6YDg1MH1iD-8Q8mmV9L7wHOfuyUC3aogctZ2Nh87U/edit?usp=sharing as well as below:
 
 Executive summary:
 
@@ -131,4 +131,3 @@ as part of the new personalized medicine initiative
  
 
 The son in the AJ trio who is himself genetics expert by occupation was present and suggested that more clinical/phenotype data would be good since they are willing to share it publicly: additional cell lines would be good to establish with the purpose of phenotyping and later characterizing influence of drugs and edited in genomic variants (no IPS cell line has been established yet). Father 93, is PGP15 primary colon and metastatic liver cancer survivor (4 yrs in remission) also has tissue samples from fathers tumors as well as whole genome sequence from tumors and respective  control tissue done in 2014 by Cornell Med School.  Dad has agreed to donate further samples upon his death.  Mother 76.  All 4 grandparents died >80. His wife is also a geneticist enrolled in PGP but not AJ (Bulgarian) and they have a 3.5 y.o. son.  They are open to other uses and we can contact.
-</sub> 
