@@ -5,10 +5,14 @@ This repository contains recent announcement or blog post from the Genome in a B
 ************************************************************************************************
 
 <sub>
-<b>[Preprint describing GIAB PGP data now on biorxiv](https://github.com/genome-in-a-bottle/giab_announcement_blog/blob/master/2015/20150916-Preprint-describing-GIAB-PGP-data-now-on-biorxiv.md)</b></sub><br />
-<sub>Post date: Wednesday, September 16, 2015 - 06:37</sub>
+<b>[GIAB 2016 at Stanford](https://github.com/genome-in-a-bottle/giab_announcement_blog/blob/master/2015/20151205-GIAB-2016-at-Stanford.md)</b></sub><br />
+<sub>Post date: Saturday, December 5, 2015 - 14:17</sub>
 
-<sub>Our manuscript describing GIAB data from the GIAB PGP trios and NA12878 is now available as a preprint at http://biorxiv.org/content/early/2015/09/15/026468.  Thank you to all of you who contributed to these data!  The manuscript is submitted to Nature Scientific Data as well.  Note that this is a "Data Descriptor" that describes the data and QC analyses, but not the downstream analyses we are currently doing to generate candidate variant calls and form high-confidence calls. We welcome any suggestions for the manuscript while it is in the review process. If you submit any publications using these GIAB data, we ask that you cite the preprint until the manuscript is published</sub>
+<sub>The Genome in a Bottle Consortium is holding its 7th open, public workshop at the Li Ka Sheng Center on the Stanford University campus January 28-29, 2016.  GIAB is developing reference materials, reference data, and methods to use the materials and data to assess performance of human genome sequencing.  At this workshop, we will discuss progress developing high-confidence variant calls of all sizes for NIST whole genome Reference Materials.  We will also discuss the roadmap for future work of GIAB, including analysis of structural variants and difficult regions of the genome and other potential genomic Reference Materials. The workshop is planned for 9am to 5:30pm on Jan 28 and 9am to 1pm on Jan 29, followed by a steering committee meeting from 1-3pm.</sub>
+
+<sub>REGISTER ONLINE HERE</sub>
+
+<sub>The conference will be held at the Li Ka Shing Conference Center.</sub>
 
 
 ************************************************************************************************
