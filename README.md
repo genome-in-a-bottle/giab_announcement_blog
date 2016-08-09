@@ -4,7 +4,7 @@ This repository contains recent announcement or blog post from the Genome in a B
 **Latest Announcement**
 ************************************************************************************************
 <sub>
-<b>[GIAB] Registration open for GIAB Workshop Sept 15-16, 2016</b>
+<b>[GIAB] Registration open for GIAB Workshop Sept 15-16, 2016</b><br />
 <sub>Post date: Tuesday, August 2, 2016</sub>
 
 <sub>Dear GIAB participants,</sub>
