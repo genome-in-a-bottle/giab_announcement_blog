@@ -6,7 +6,7 @@ This repository contains recent announcement or blog post from the Genome in a B
 
 <sub>
 
-[New GIAB High-confidence calls for NA12878, AJ Trio, and Chinese son](https://github.com/genome-in-a-bottle/giab_announcement_blog/edit/master/2016/20160909-New_GIAB_Highconfidence_calls_for_NA12878_AJTrio_and_Chinese_son.md) <br />
+[New GIAB High-confidence calls for NA12878, AJ Trio, and Chinese son](https://github.com/genome-in-a-bottle/giab_announcement_blog/blob/master/2016/20160909-New_GIAB_Highconfidence_calls_for_NA12878_AJTrio_and_Chinese_son.md) <br />
 
 
 
