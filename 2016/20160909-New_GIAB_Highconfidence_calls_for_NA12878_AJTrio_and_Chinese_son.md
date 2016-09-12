@@ -1,4 +1,6 @@
 
+[New GIAB High-confidence calls for NA12878, AJ Trio, and Chinese son](https://github.com/genome-in-a-bottle/giab_announcement_blog/edit/master/2016/20160909-New_GIAB_Highconfidence_calls_for_NA12878_AJTrio_and_Chinese_son.md)
+Post date: Friday, September 9, 2016
 
 Dear Colleagues,
 
