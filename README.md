@@ -5,15 +5,9 @@ This repository contains recent announcement or blog post from the Genome in a B
 ************************************************************************************************
 
 <sub>
-<b>[Registration open for GIAB Workshop Sept 15-16, 2016](https://github.com/genome-in-a-bottle/giab_announcement_blog/edit/master/2016/20160802-GIAB-Workshop-at-NIST-2016.md)</b></sub><br />
-<sub>Post date: Tuesday, August 2, 2016</sub>
 
-<sub>Dear GIAB participants,</sub>
+[New GIAB High-confidence calls for NA12878, AJ Trio, and Chinese son](https://github.com/genome-in-a-bottle/giab_announcement_blog/edit/master/2016/20160909-New_GIAB_Highconfidence_calls_for_NA12878_AJTrio_and_Chinese_son.md) <br />
 
-<sub>Registration is open for our next open, public GIAB workshop at NIST in Gaithersburg, MD on September 15-16, 2016 at https://appam.certain.com/profile/form/index.cfm?PKformID=0x311041593. Details about agenda and timing will be distributed to this list soon. We hope to see many of you there.</sub>
-
-<sub>Cheers,</sub><br />
-<sub>Justin</sub>
 
 
 
